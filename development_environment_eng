@@ -1,0 +1,11 @@
+Instruction for installation development environment for making Android application.
+
+1) Make sure Java with JDK 8.* has been installed on your system. (how to install these, look in Google :) )
+2) Download Android-Studio+SDK from the official site (https://developer.android.com/studio/index.html)
+  * Tap Download Options and select the necessary distribute (Win, Linux, Mac OS X, etc.)
+3) Following the instructions, install Android-Studio with Android SDK.
+
+That is all. For more information, ask me
+
+Savelyev E.A.
+glados28@yandex.ru
