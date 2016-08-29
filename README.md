@@ -1,2 +1,2 @@
-# Sochi_App_Android_App_Preparation
-Preparation instructions to the Sochi Android Application
+# Sochi_App_Android_App
+Preparation instructions to- and source code of the Sochi Android Application
